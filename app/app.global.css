@@ -1,0 +1,25 @@
+.half-section {
+  position: relative;
+  width: 50%;
+  display: inline-block;
+  float: left;
+  max-height: 500px;
+  background-color: inherit;
+  margin: 20px auto;
+}
+
+.scroll-box {
+  overflow: scroll;
+  min-height: 150px;
+  max-height: 500px;
+  background-color: #141422;
+}
+
+.entire-window {
+  margin: 40px 100px;
+}
+
+.center-div {
+  margin: 10px auto;
+  width:380px;
+}
